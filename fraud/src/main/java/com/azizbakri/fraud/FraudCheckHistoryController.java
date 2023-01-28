@@ -1,5 +1,6 @@
 package com.azizbakri.fraud;
 
+import com.azizbakri.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -10,7 +11,7 @@ public class FraudCheckHistoryController {
     FraudCheckHistoryService fraudCheckHistoryService;
 
     @GetMapping(path = "{customerId}")
-    public FraudCheckResponse isFraudster(@PathVariable Integer customerId) {
+    public FraudCheckResponse isFraudster(@PathVariable("customerId") Integer customerId) {
         boolean isFraudulentCustomer = fraudCheckHistoryService.isFraudulentCustomer(customerId);
 
         log.info("fraud check request for customer {}", customerId);
