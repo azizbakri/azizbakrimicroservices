@@ -1,0 +1,6 @@
+com\azizbakri\fraud\FraudCheckHistoryRepository.class
+com\azizbakri\fraud\FraudCheckHistory.class
+com\azizbakri\fraud\FraudApplication.class
+com\azizbakri\fraud\FraudCheckHistoryService.class
+com\azizbakri\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\azizbakri\fraud\FraudCheckHistoryController.class

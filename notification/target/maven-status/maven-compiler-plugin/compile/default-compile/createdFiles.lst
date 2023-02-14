@@ -1,0 +1,8 @@
+com\azizbakri\notification\Notification$NotificationBuilder.class
+com\azizbakri\notification\Notification.class
+com\azizbakri\notification\NotificationConfig.class
+com\azizbakri\notification\NotificationRepository.class
+com\azizbakri\notification\NotificationApplication.class
+com\azizbakri\notification\NotificationService.class
+com\azizbakri\notification\rabbitmq\NotificationConsumer.class
+com\azizbakri\notification\NotificationController.class

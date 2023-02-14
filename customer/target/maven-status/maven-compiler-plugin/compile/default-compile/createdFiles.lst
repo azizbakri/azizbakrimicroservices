@@ -1,0 +1,7 @@
+com\azizbakri\customer\Customer$CustomerBuilder.class
+com\azizbakri\customer\Customer.class
+com\azizbakri\customer\CustomerApplication.class
+com\azizbakri\customer\CustomerService.class
+com\azizbakri\customer\CustomerController.class
+com\azizbakri\customer\CustomerRegistrationRequest.class
+com\azizbakri\customer\CustomerRepository.class

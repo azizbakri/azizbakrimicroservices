@@ -1,0 +1,4 @@
+com\azizbakri\clients\fraud\FraudCheckResponse.class
+com\azizbakri\clients\notification\NotificationClient.class
+com\azizbakri\clients\notification\NotificationRequest.class
+com\azizbakri\clients\fraud\FraudClient.class
